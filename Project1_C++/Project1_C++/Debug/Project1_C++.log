@@ -1,0 +1,4 @@
+﻿  Project1_C++.cpp
+C:\Users\Admin\source\repos\Project1_C++\Project1_C++\Project1_C++.cpp(81): warning C4715: 'checkBoard': not all control paths return a value
+C:\Users\Admin\source\repos\Project1_C++\Project1_C++\Project1_C++.cpp(25): warning C4715: 'checkChar': not all control paths return a value
+  Project1_C++.vcxproj -> C:\Users\Admin\source\repos\Project1_C++\Debug\Project1_C++.exe
